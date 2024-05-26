@@ -1,0 +1,57 @@
+.fas, .fab {
+  font-family: 'Times New Roman';
+  font-weight: 900;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  margin: auto 2em;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  /* margin: 20px; */
+}
+
+#mainLeft, #mainRight {
+  flex: 1;
+  padding: 20px;
+}
+
+section {
+  margin-right: auto 1em 4em 2em;
+}
+
+i{
+    margin: .5em;
+}
+p{
+    margin: .2em auto;
+}
+hr{
+    border: none;
+    background-color: lightgrey;
+    height: 1px;
+}
+h1, h2, h3{
+ 
+  font-weight: 100;
+  margin-bottom: 0;
+}
+
+
+
+
+
